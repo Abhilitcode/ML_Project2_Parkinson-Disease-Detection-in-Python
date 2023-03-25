@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Detection-in-Python
+# Parkinson's-Disease-Detection-in-Python
